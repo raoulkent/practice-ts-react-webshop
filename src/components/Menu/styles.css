@@ -1,0 +1,15 @@
+.Menu {
+  width: 100vw;
+  min-height: 4em;
+  background-color: #444444;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+
+  box-sizing: border-box;
+}
+
+.Title {
+  color: white;
+}
